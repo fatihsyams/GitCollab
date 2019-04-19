@@ -1,7 +1,9 @@
-itpackage com.fatihsyams.gitcollabwithtb;
+package com.fatihsyams.gitcollabwithtb;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.fatihsyams.gitcollabwithtb.R;
 
 public class MainActivity extends AppCompatActivity {
 
